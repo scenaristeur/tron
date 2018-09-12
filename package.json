@@ -1,0 +1,24 @@
+{
+  "name": "tron",
+  "version": "1.0.0",
+  "description": "Tron is a simple two-player game based on the arcade game and movie of the same name. The goal is to stay alive as long as possible, trying not to crash into either player's lines. It runs in-browser and was made using the Javascript library p5.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scenaristeur/tron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scenaristeur/tron/issues"
+  },
+  "homepage": "https://github.com/scenaristeur/tron#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
